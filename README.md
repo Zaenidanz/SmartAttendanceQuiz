@@ -11,7 +11,7 @@ Seluruh proses berjalan di terminal tanpa menggunakan library eksternal.
 
 ---
 
-## ⚙️ Fitur Utama
+## Fitur Utama
 - ✅ Absensi otomatis dengan pencatatan waktu mulai & selesai  
 - 🧩 Kuis interaktif dengan soal pilihan ganda per mata pelajaran  
 
