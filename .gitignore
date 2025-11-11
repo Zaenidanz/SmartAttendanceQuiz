@@ -1,0 +1,24 @@
+# ===== Python cache & environment =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# ===== Output files =====
+data_siswa.csv
+*.log
+
+# ===== OS-specific =====
+.DS_Store
+Thumbs.db
+
+# ===== Editor folders =====
+.vscode/
+.idea/
+
+# ===== Other temp =====
+*.bak
+*.tmp
+
