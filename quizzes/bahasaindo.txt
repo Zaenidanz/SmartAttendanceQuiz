@@ -1,105 +1,265 @@
-1|Antonim dari “tinggi” adalah?
-A. Pendek
+Kalimat yang menggunakan tanda baca dengan benar adalah?
+A. Ibu berkata “Jangan lupa makan.”
+B. Ibu berkata, “Jangan lupa makan.”
+C. Ibu berkata “Jangan lupa makan”.
+D. Ibu berkata Jangan lupa makan.
+B
+
+Antonim dari kata besar adalah?
+A. Luas
 B. Panjang
 C. Kecil
-D. Rendah
-A
-
-2|Sinonim dari “pandai” adalah?
-A. Bodoh
-B. Pintar
-C. Lemah
-D. Malas
-B
-
-3|Kalimat yang menggunakan tanda tanya adalah?
-A. Ayah pergi ke pasar
-B. Kamu sudah makan?
-C. Saya suka apel
-D. Ini buku baru saya
-B
-
-4|Kata baku dari “aktifitas” adalah?
-A. Aktivitas
-B. Aktifitas
-C. Aktif
-D. Akitivitas
-A
-
-5|Kalimat perintah terdapat pada?
-A. Jangan lupa mengerjakan PR!
-B. Saya sedang belajar
-C. Ayah membaca koran
-D. Apakah kamu lapar?
-A
-
-6|Sinonim dari “cepat” adalah?
-A. Lambat
-B. Gesit
-C. Berat
-D. Teliti
-B
-
-7|Kalimat “Rina membaca buku di taman” termasuk jenis kalimat?
-A. Tanya
-B. Seru
-C. Berita
-D. Perintah
+D. Tinggi
 C
 
-8|Kata “cantik” termasuk jenis kata?
-A. Benda
-B. Sifat
-C. Kerja
-D. Keterangan
+Sinonim dari kata indah adalah?
+A. Jelek
+B. Cantik
+C. Kusam
+D. Buruk
 B
 
-9|Kalimat seru ditandai dengan tanda?
-A. Titik
-B. Koma
-C. Seru (!)
-D. Tanya (?)
-C
-
-10|Kata dasar dari “bermain” adalah?
-A. Main
-B. Bermain
-C. Permainan
-D. Dimainkan
-A
-
-11|Kata depan “di” harus dipisah jika?
-A. Menunjukkan tempat
-B. Menunjukkan perintah
-C. Menunjukkan kegiatan
-D. Menunjukkan sifat
-A
-
-12|Kalimat “Andi sedang menulis surat” predikatnya adalah?
-A. Andi
-B. Sedang
-C. Menulis
-D. Surat
-C
-
-13|Kata “belajar” termasuk kata?
-A. Kerja
-B. Benda
-C. Sifat
-D. Keterangan
-A
-
-14|Kalimat “Wah, indah sekali pemandangannya!” termasuk kalimat?
-A. Tanya
-B. Seru
-C. Perintah
-D. Berita
+Kalimat yang menggunakan kata depan dengan benar adalah?
+A. Ia pergi kepasar.
+B. Ia pergi ke pasar.
+C. Ia pergi kepasarnya.
+D. Ia pergi pasar.
 B
 
-15|Kalimat yang benar adalah?
-A. Saya suka makan apel.
-B. Saya suka makan Apel.
-C. saya suka makan apel.
-D. Saya suka Makan apel.
+Kalimat efektif adalah?
+A. Siswa-siswa pada datang ke sekolah.
+B. Para siswa datang ke sekolah.
+C. Siswa datang ke sekolah-sekolah.
+D. Siswa yang datang ke sekolah banyak.
+B
+
+Kalimat tanya yang benar adalah?
+A. Kamu pergi kemana?
+B. Kemana kamu pergi
+C. Ke mana kamu pergi?
+D. Ke mana kamu pergi.
+C
+
+Kalimat perintah yang benar adalah?
+A. Tolong ambilkan buku itu!
+B. Tolong ambilkan buku itu?
+C. Tolong ambilkan buku itu.
+D. Tolong ambilkan buku itu, ya?
 A
 
+Kata baku dari aktifitas adalah?
+A. Aktifitas
+B. Aktivitas
+C. Aktifvitas
+D. Aktifitasse
+B
+
+Kalimat yang termasuk kalimat langsung adalah?
+A. Ibu menyuruh saya belajar.
+B. Ibu berkata bahwa saya harus belajar.
+C. Ibu berkata, “Belajarlah sekarang!”
+D. Saya disuruh ibu untuk belajar.
+C
+
+Makna kata modern adalah?
+A. Kuno
+B. Lama
+C. Tertinggal
+D. Masa kini
+D
+
+Kalimat yang mengandung majas perbandingan adalah?
+A. Matanya tajam seperti elang.
+B. Ia membaca buku di taman.
+C. Mereka pergi ke sekolah.
+D. Saya suka warna biru.
+A
+
+Kata kerja terdapat pada kalimat?
+A. Buku itu tebal.
+B. Ibu memasak di dapur.
+C. Ayah seorang dokter.
+D. Rumahnya besar.
+B
+
+Kalimat yang menggunakan kata hubung karena adalah?
+A. Ia menangis karena sedih.
+B. Ia menangis sedih.
+C. Ia menangis, sedih sekali.
+D. Ia sedih menangis.
+A
+
+Kalimat yang termasuk kalimat tidak efektif adalah?
+A. Siswa-siswa sekolah itu sangat rajin.
+B. Siswa sekolah itu sangat rajin.
+C. Para siswa sekolah itu sangat rajin.
+D. Siswa-siswa itu rajin.
+A
+
+Kalimat yang menggunakan kata depan di dengan benar adalah?
+A. Dirumah saya belajar.
+B. Di rumah saya belajar.
+C. Di rumahsaya belajar.
+D. Dirumahsaya belajar.
+B
+
+Kalimat yang menggunakan imbuhan me- dengan benar adalah?
+A. Memakan
+B. Makan
+C. Makanan
+D. Dimakan
+A
+
+Kalimat yang mengandung majas personifikasi adalah?
+A. Daun-daun menari tertiup angin.
+B. Ia menari di taman.
+C. Daun-daun jatuh ke tanah.
+D. Angin berhembus pelan.
+A
+
+Kalimat yang merupakan kalimat ajakan adalah?
+A. Tolong ambilkan air itu!
+B. Jangan ribut di kelas!
+C. Ayo kita belajar bersama!
+D. Cepat kerjakan tugasmu!
+C
+
+Kalimat yang benar penulisannya adalah?
+A. Saya tinggal dijakarta.
+B. Saya tinggal di Jakarta.
+C. Saya tinggal di jakarta.
+D. Saya Tinggal di Jakarta.
+B
+
+Kata baku dari resiko adalah?
+A. Resiko
+B. Resicu
+C. Risiko
+D. Reseku
+C
+
+Kata akuarium berhubungan dengan?
+A. Hewan darat
+B. Hewan air
+C. Hewan udara
+D. Hewan langka
+B
+
+Kalimat yang termasuk kalimat berita adalah?
+A. Apakah kamu sudah makan?
+B. Tolong ambilkan piring itu!
+C. Hari ini cuaca sangat cerah.
+D. Ayo cepat berangkat!
+C
+
+Kalimat yang menggunakan kata seperti dengan benar adalah?
+A. Dia berlari seperti angin.
+B. Dia berlari angin.
+C. Dia seperti berlari angin.
+D. Dia angin berlari.
+A
+
+Kata yang termasuk kata sifat adalah?
+A. Menulis
+B. Duduk
+C. Cepat
+D. Lari
+C
+
+Kalimat yang mengandung kata kerja adalah?
+A. Ibu memasak nasi goreng.
+B. Rumah itu besar sekali.
+C. Buku itu berwarna biru.
+D. Dia anak yang pintar.
+A
+
+Kata baku dari praktek adalah?
+A. Praktek
+B. Praktik
+C. Prakteg
+D. Praktikkan
+B
+
+Kalimat yang termasuk kalimat majemuk adalah?
+A. Saya makan.
+B. Saya belajar dan adik bermain.
+C. Saya tidur.
+D. Saya membaca.
+B
+
+Kalimat yang mengandung kata penghubung tetapi adalah?
+A. Ia rajin tetapi pelupa.
+B. Ia rajin sangat.
+C. Ia pelupa rajin.
+D. Ia rajin karena pelupa.
+A
+
+Kalimat yang benar penulisannya adalah?
+A. Kami akan pergi ke Bandung.
+B. kami akan pergi ke bandung.
+C. Kami Akan pergi ke bandung.
+D. Kami Akan Pergi ke Bandung.
+A
+
+Kata baku dari ijin adalah?
+A. Ijin
+B. Ijen
+C. Izin
+D. Isin
+C
+
+Kalimat yang merupakan kalimat larangan adalah?
+A. Ayo kita makan!
+B. Jangan membuang sampah sembarangan!
+C. Tolong tutup pintunya!
+D. Cepat datang ke sini!
+B
+
+Kalimat yang termasuk kalimat langsung adalah?
+A. Ibu menyuruh saya tidur.
+B. Ibu berkata, “Tidurlah lebih awal!”
+C. Saya diminta ibu tidur.
+D. Saya disuruh ibu tidur.
+B
+
+Kalimat yang menggunakan kata depan ke dengan benar adalah?
+A. Ia pergi kesekolah.
+B. Ia pergi ke sekolah.
+C. Ia ke sekolahnya pergi.
+D. Ia kesekolah pergi.
+B
+
+Kata pustaka memiliki arti?
+A. Buku
+B. Surat
+C. Cerita
+D. Huruf
+A
+
+Kalimat yang mengandung makna kias adalah?
+A. Ia menjadi tulang punggung keluarga.
+B. Ia menyapu halaman rumah.
+C. Ia belajar setiap hari.
+D. Ia membaca buku pelajaran.
+A
+
+Kalimat yang benar tanda bacanya adalah?
+A. “Apakah kamu sudah siap”? Tanya guru.
+B. “Apakah kamu sudah siap?” tanya guru.
+C. “Apakah kamu sudah siap.” Tanya guru.
+D. “Apakah kamu sudah siap”, tanya guru.
+B
+
+Kalimat yang termasuk kalimat deskriptif adalah?
+A. Saya membeli sayur di pasar.
+B. Rumah itu besar dan indah.
+C. Ayo kita makan bersama!
+D. Jangan berisik di kelas!
+B
+
+Kata baku dari kwalitas adalah?
+A. Kwalitas
+B. Kualitas
+C. Kwualitas
+D. Kualiti
+B

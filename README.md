@@ -18,7 +18,7 @@ Seluruh proses berjalan di terminal tanpa menggunakan library eksternal.
 ---
 
 ## Cara Menjalankan
-Pastikan Python sudah terinstal di sistem kamu, lalu jalankan:
+Pastikan Python sudah terinstal di sistem, lalu jalankan:
 
 ```bash
 python app.py

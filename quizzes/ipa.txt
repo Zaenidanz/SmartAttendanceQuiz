@@ -1,105 +1,265 @@
-1|Apa fungsi utama paru-paru pada manusia?
-A. Menyerap makanan
-B. Menukar oksigen dan karbon dioksida
-C. Mengedarkan darah
-D. Menghasilkan energi
+Perubahan wujud dari air menjadi uap disebut?
+A. Mengembun
+B. Menguap
+C. Menyublim
+D. Membeku
 B
 
-2|Apa alat pernapasan utama pada ikan?
-A. Paru-paru
-B. Insang
-C. Trakea
-D. Kulit
+Alat pernapasan utama pada manusia adalah?
+A. Hidung
+B. Paru-paru
+C. Tenggorokan
+D. Diafragma
 B
 
-3|Bagian tumbuhan yang berfungsi menyerap air adalah?
+Planet yang paling dekat dengan Matahari adalah?
+A. Venus
+B. Merkurius
+C. Mars
+D. Bumi
+B
+
+Zat yang memiliki volume tetap tetapi bentuk tidak tetap adalah?
+A. Padat
+B. Cair
+C. Gas
+D. Plasma
+B
+
+Fungsi jantung adalah?
+A. Mencerna makanan
+B. Memompa darah
+C. Mengatur suhu tubuh
+D. Menghasilkan hormon
+B
+
+Alat optik yang digunakan untuk melihat benda sangat kecil adalah?
+A. Teropong
+B. Mikroskop
+C. Lup
+D. Kamera
+B
+
+Bagian tumbuhan tempat berlangsungnya fotosintesis adalah?
+A. Akar
+B. Batang
+C. Daun
+D. Bunga
+C
+
+Hewan yang berkembang biak dengan bertelur disebut?
+A. Vivipar
+B. Ovipar
+C. Ovovivipar
+D. Metamorfik
+B
+
+Gaya yang membuat benda jatuh ke bawah disebut?
+A. Gaya gesek
+B. Gaya magnet
+C. Gaya gravitasi
+D. Gaya dorong
+C
+
+Perubahan dari padat menjadi gas disebut?
+A. Menguap
+B. Menyublim
+C. Mengembun
+D. Membeku
+B
+
+Benda yang dapat menghantarkan listrik disebut?
+A. Isolator
+B. Konduktor
+C. Semi-konduktor
+D. Reflektor
+B
+
+Satuan gaya dalam SI adalah?
+A. Joule
+B. Watt
+C. Newton
+D. Pascal
+C
+
+Energi yang dimiliki benda karena gerak disebut?
+A. Energi potensial
+B. Energi kinetik
+C. Energi panas
+D. Energi listrik
+B
+
+Alat untuk mengukur suhu adalah?
+A. Barometer
+B. Termometer
+C. Anemometer
+D. Higrometer
+B
+
+Bagian telinga yang berfungsi menangkap getaran suara adalah?
+A. Gendang telinga
+B. Koklea
+C. Saraf auditori
+D. Saluran eustachius
+A
+
+Urutan planet dari Matahari yang benar adalah?
+A. Merkurius, Bumi, Venus
+B. Merkurius, Venus, Bumi
+C. Bumi, Mars, Venus
+D. Venus, Merkurius, Bumi
+B
+
+Bumi berputar pada porosnya disebut gerak?
+A. Revolusi
+B. Rotasi
+C. Translasi
+D. Refleksi
+B
+
+Gas yang dibutuhkan tumbuhan untuk fotosintesis adalah?
+A. Karbon dioksida
+B. Oksigen
+C. Nitrogen
+D. Hidrogen
+A
+
+Proses pencernaan pertama kali terjadi di?
+A. Lambung
+B. Usus halus
+C. Mulut
+D. Kerongkongan
+C
+
+Hewan yang mengalami metamorfosis sempurna salah satunya adalah?
+A. Kucing
+B. Katak
+C. Ayam
+D. Ular
+B
+
+Bagian tumbuhan yang berfungsi menyerap air dan mineral adalah?
 A. Batang
 B. Daun
 C. Akar
 D. Bunga
 C
 
-4|Planet terbesar di tata surya adalah?
-A. Bumi
-B. Mars
-C. Jupiter
-D. Saturnus
-C
-
-5|Air berubah menjadi uap melalui proses?
-A. Kondensasi
-B. Penguapan
-C. Presipitasi
-D. Sublimasi
+Hasil dari proses fotosintesis adalah?
+A. Karbondioksida dan air
+B. Oksigen dan glukosa
+C. Nitrogen dan glukosa
+D. Air dan panas
 B
 
-6|Bagian bumi yang terdiri atas batuan padat disebut?
-A. Atmosfer
-B. Hidrosfer
-C. Litosfer
-D. Biosfer
-C
-
-7|Zat yang dibutuhkan tumbuhan untuk fotosintesis adalah?
-A. Oksigen dan air
-B. Karbon dioksida dan air
-C. Nitrogen dan cahaya
-D. Karbon monoksida dan air
-B
-
-8|Bagian mata yang berfungsi mengatur banyaknya cahaya masuk adalah?
-A. Retina
-B. Kornea
-C. Pupil
-D. Lensa
-C
-
-9|Sumber energi utama bagi manusia adalah?
-A. Air
-B. Makanan
-C. Angin
-D. Tanah
-B
-
-10|Benda padat jika dipanaskan akan?
-A. Menyusut
-B. Meleleh
-C. Menguap
-D. Membeku
-B
-
-11|Fungsi tulang rusuk pada manusia adalah?
-A. Melindungi jantung dan paru-paru
-B. Membantu pernapasan
-C. Mengatur suhu tubuh
-D. Membentuk darah
-A
-
-12|Hewan yang berkembang biak dengan bertelur disebut?
-A. Vivipar
-B. Ovipar
-C. Ovovivipar
-D. Metamorfosis
-B
-
-13|Apa hasil akhir dari proses fotosintesis?
-A. Oksigen dan glukosa
-B. Air dan karbon dioksida
-C. Cahaya dan oksigen
-D. Glukosa dan nitrogen
-A
-
-14|Lapisan ozon terdapat pada lapisan?
+Lapisan atmosfer yang melindungi bumi dari sinar ultraviolet adalah?
 A. Troposfer
 B. Stratosfer
 C. Mesosfer
 D. Termosfer
 B
 
-15|Energi panas matahari disebut juga energi?
-A. Geotermal
-B. Surya
-C. Kimia
-D. Listrik
+Perubahan kimia ditandai dengan?
+A. Perubahan wujud
+B. Timbul gas atau endapan
+C. Bentuk tetap
+D. Warna tidak berubah
 B
 
+Organel sel tempat respirasi sel terjadi adalah?
+A. Nukleus
+B. Mitokondria
+C. Ribosom
+D. Kloroplas
+B
+
+Gaya yang bekerja saat menggeser meja adalah?
+A. Gaya dorong
+B. Gaya gesek
+C. Gaya tarik
+D. Gaya magnet
+B
+
+Sumber energi utama di Bumi adalah?
+A. Listrik
+B. Api
+C. Matahari
+D. Baterai
+C
+
+Zat tunggal yang tidak dapat diuraikan lagi disebut?
+A. Senyawa
+B. Campuran
+C. Unsur
+D. Ion
+C
+
+Waktu yang dibutuhkan Bumi mengelilingi Matahari adalah?
+A. 1 hari
+B. 1 minggu
+C. 1 bulan
+D. 1 tahun
+D
+
+Hasil pembakaran bensin termasuk perubahan?
+A. Fisika
+B. Kimia
+C. Biologi
+D. Mekanika
+B
+
+Darah berwarna merah karena mengandung?
+A. Air
+B. Hemoglobin
+C. Karbon dioksida
+D. Protein
+B
+
+Bagian otak yang mengatur keseimbangan tubuh adalah?
+A. Otak besar
+B. Otak kecil
+C. Sumsum tulang belakang
+D. Medula oblongata
+B
+
+Energi listrik dapat diubah menjadi energi cahaya pada?
+A. Setrika
+B. Lampu
+C. Kipas angin
+D. Kompor listrik
+B
+
+Bagian mata yang berfungsi mengatur banyaknya cahaya adalah?
+A. Kornea
+B. Retina
+C. Iris
+D. Lensa
+C
+
+Peristiwa siang dan malam disebabkan oleh?
+A. Revolusi Bumi
+B. Rotasi Bumi
+C. Revolusi Bulan
+D. Rotasi Matahari
+B
+
+Jenis gaya yang menyebabkan magnet menarik logam adalah?
+A. Gaya gravitasi
+B. Gaya gesek
+C. Gaya magnet
+D. Gaya sentrifugal
+C
+
+Benda yang dapat menimbulkan bayangan adalah?
+A. Transparan
+B. Semi-transparan
+C. Opaque (tidak tembus cahaya)
+D. Bening
+C
+
+Proses terbentuknya awan berasal dari?
+A. Pengembunan
+B. Penguapan
+C. Penyubliman
+D. Pembekuan
+B

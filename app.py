@@ -1,5 +1,6 @@
 import os
 import csv
+import random
 from datetime import datetime
 
 DATA_FILE = "data_siswa.csv"
@@ -17,7 +18,7 @@ def absen():
     tanggal = datetime.now().strftime("%Y-%m-%d")
     waktu_mulai = datetime.now().strftime("%H:%M:%S")
 
-    # Pilih mapel dulu
+    # Pilih mapel
     if not os.path.exists("quizzes"):
         print("Folder quizzes tidak ditemukan.")
         return None, None, None, None
@@ -41,15 +42,19 @@ def absen():
         print("Pilihan tidak valid.")
         return None, None, None, None
 
-    # Cek apakah sudah absen di mapel ini hari ini
-    with open(DATA_FILE, "r") as file:
-        reader = csv.reader(file)
-        next(reader)
-        for row in reader:
-            if row[0] == nama and row[1] == tanggal and row[2].lower() == mapel.lower():
-                print(f"\n[•] {nama} sudah absen hari ini di mapel {mapel}.")
-                return None, None, None, None
+    # === CEK DUPLIKAT di file ASCII ===
+    if os.path.exists(DATA_FILE):
+        with open(DATA_FILE, "r", encoding="utf-8") as file:
+            lines = [line.strip() for line in file if line.startswith("|") and not line.startswith("| Nama")]
+            for l in lines:
+                parts = [p.strip() for p in l.strip("|").split("|")]
+                if len(parts) == 6:
+                    n, tgl, mp, _, _, _ = parts
+                    if n.lower() == nama.lower() and tgl == tanggal and mp.lower() == mapel.lower():
+                        print(f"\n[•] {nama} sudah absen hari ini di mapel {mapel}.")
+                        return None, None, None, None
 
+    # Jika belum ada duplikat
     print(f"\n[✔] Kehadiran {nama} dicatat ({tanggal}, {mapel}, {waktu_mulai})")
     return nama, tanggal, waktu_mulai, mapel
 
@@ -81,6 +86,7 @@ def jalankan_kuis(nama, tanggal, waktu_mulai, file_path):
     with open(file_path, "r", encoding="utf-8") as f:
         lines = [line.strip() for line in f if line.strip()]
 
+    # Baca semua soal dari file
     soal_data = []
     i = 0
     while i < len(lines):
@@ -90,30 +96,34 @@ def jalankan_kuis(nama, tanggal, waktu_mulai, file_path):
         soal_data.append((soal, opsi, jawaban))
         i += 6
 
-    print("\n=== MULAI KUIS ===")
+    # Ambil 15 soal secara acak tanpa menampilkan info jumlahnya
+    total_soal = len(soal_data)
+    jumlah_dipilih = min(15, total_soal)
+    soal_terpilih = random.sample(soal_data, jumlah_dipilih)
+
+    print("\n🧩 Mulai Kuis\n")
+
     benar = 0
-    for idx, (soal, opsi, jawaban) in enumerate(soal_data, start=1):
-        print(f"\n{soal}")
+    for idx, (soal, opsi, jawaban) in enumerate(soal_terpilih, start=1):
+        print(f"{idx}. {soal}")
         for o in opsi:
             print(o)
         jawab = input("Jawaban kamu (A/B/C/D): ").strip().upper()
         if jawab == jawaban:
-            print("✅ Benar!")
+            print("✅ Benar!\n")
             benar += 1
         else:
-            print(f"❌ Salah! Jawaban benar: {jawaban}")
+            print(f"❌ Salah! Jawaban benar: {jawaban}\n")
 
-    total = len(soal_data)
+    total = len(soal_terpilih)
     nilai = round((benar / total) * 100, 2)
     waktu_selesai = datetime.now().strftime("%H:%M:%S")
 
-    print(f"\n🎯 Skor akhir: {benar}/{total} ({nilai}%)")
-    print(f"Waktu selesai: {waktu_selesai}")
+    print(f"🎯 Kuis selesai. Nilai tersimpan otomatis.\n")
 
     mapel = os.path.splitext(os.path.basename(file_path))[0].capitalize()
 
-    # ======== BAGIAN BARU: SIMPAN DALAM FORMAT TABEL ========
-    # 1. Baca data lama
+    # === Simpan hasil ke tabel ASCII seperti sebelumnya ===
     data = []
     if os.path.exists(DATA_FILE):
         with open(DATA_FILE, "r", encoding="utf-8") as file:
@@ -124,10 +134,8 @@ def jalankan_kuis(nama, tanggal, waktu_mulai, file_path):
                     if len(parts) == 6:
                         data.append(parts)
 
-    # 2. Tambahkan data baru
     data.append([nama, tanggal, mapel, waktu_mulai, waktu_selesai, str(nilai)])
 
-    # 3. Tulis ulang file sebagai tabel
     with open(DATA_FILE, "w", encoding="utf-8") as file:
         file.write("📋 Data Kehadiran dan Nilai Siswa\n")
         file.write("=" * 85 + "\n")
@@ -170,7 +178,7 @@ def lihat_data():
 def main():
     init_file()
     while True:
-        print("\n=== SMART ATTENDANCE + QUIZ CLI ===")
+        print("\n=== SMART ATTENDANCE QUIZ CLI ===")
         print("1. Absen & Mulai Kuis")
         print("2. Lihat Data Semua Siswa")
         print("3. Keluar")

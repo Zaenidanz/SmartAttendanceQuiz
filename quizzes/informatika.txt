@@ -1,0 +1,258 @@
+Internet of Things (IoT) adalah konsep di mana perangkat dapat saling terhubung melalui?
+A. Bluetooth
+B. Internet
+C. Radio
+D. Kabel
+B
+
+Perangkat berikut termasuk contoh penerapan IoT adalah?
+A. Smartwatch
+B. Printer biasa
+C. Flashdisk
+D. Komputer server
+A
+
+Tujuan utama IoT adalah untuk?
+A. Menghemat energi dan waktu
+B. Membuat jaringan lokal
+C. Menghapus data
+D. Mengontrol komputer manual
+A
+
+Komponen utama IoT terdiri dari sensor, konektivitas, dan?
+A. Database
+B. Cloud/server
+C. Printer
+D. Switch
+B
+
+Sensor suhu adalah contoh dari?
+A. Aktuator
+B. Perangkat output
+C. Perangkat input
+D. Pengolah data
+C
+
+Platform yang umum digunakan dalam IoT adalah?
+A. Arduino dan Raspberry Pi
+B. Microsoft Word
+C. Photoshop
+D. MySQL
+A
+
+Cloud computing pada IoT berfungsi untuk?
+A. Menyimpan dan memproses data perangkat
+B. Menghapus log perangkat
+C. Menyembunyikan koneksi internet
+D. Mempercepat booting
+A
+
+Protokol komunikasi yang sering digunakan di IoT adalah?
+A. HTTP dan MQTT
+B. DNS dan DHCP
+C. FTP dan SMTP
+D. IPX/SPX
+A
+
+Aktuator dalam sistem IoT berfungsi untuk?
+A. Mengambil data dari lingkungan
+B. Mengontrol tindakan fisik seperti motor atau lampu
+C. Mengirimkan sinyal ke cloud
+D. Menganalisis data
+B
+
+Contoh penerapan IoT di bidang pertanian adalah?
+A. Pengendalian suhu otomatis di rumah kaca
+B. Sistem kasir otomatis
+C. Kamera keamanan
+D. Robot industri
+A
+
+Gateway dalam arsitektur IoT berfungsi untuk?
+A. Menghubungkan perangkat IoT ke internet
+B. Menyimpan file lokal
+C. Menghapus data
+D. Menjalankan OS
+A
+
+Perangkat wearable seperti smartband termasuk kategori?
+A. IoT
+B. DevOps
+C. Virtualization
+D. Compiler
+A
+
+IoT banyak digunakan dalam smart city untuk?
+A. Mengatur lalu lintas dan lampu jalan otomatis
+B. Mengedit video
+C. Mengelola dokumen
+D. Mengontrol sistem operasi
+A
+
+DevOps merupakan singkatan dari?
+A. Developer and Operations
+B. Device and Operator
+C. Deployment Options
+D. Data Optimization System
+A
+
+Tujuan utama DevOps adalah?
+A. Mempercepat pengembangan dan deployment aplikasi
+B. Menghapus bug otomatis
+C. Membuat hardware
+D. Menyimpan kode
+A
+
+Dalam DevOps, “Continuous Integration” berarti?
+A. Penggabungan kode secara terus-menerus
+B. Pengujian manual
+C. Deploy satu kali
+D. Backup mingguan
+A
+
+Continuous Deployment berarti?
+A. Rilis aplikasi otomatis setelah lulus pengujian
+B. Rilis aplikasi setiap bulan
+C. Rilis aplikasi manual
+D. Tidak ada rilis
+A
+
+Tool populer untuk CI/CD adalah?
+A. Jenkins
+B. Word
+C. Excel
+D. Photoshop
+A
+
+Container yang umum digunakan dalam DevOps adalah?
+A. Docker
+B. VMware
+C. NodePad
+D. CMD
+A
+
+Kubernetes digunakan untuk?
+A. Mengelola container secara otomatis
+B. Membuat logo
+C. Menyimpan file
+D. Mengedit teks
+A
+
+Dalam DevOps, “Monitoring” berfungsi untuk?
+A. Memantau performa sistem dan error
+B. Menyimpan data lokal
+C. Menjalankan API
+D. Menghapus log
+A
+
+Git termasuk dalam kategori alat?
+A. Version Control System
+B. Operating System
+C. Compiler
+D. Debugger
+A
+
+Repository Git digunakan untuk?
+A. Menyimpan dan melacak perubahan kode
+B. Menjalankan program
+C. Mengkompres file
+D. Menghapus commit
+A
+
+Tahap “Testing” dalam DevOps bertujuan untuk?
+A. Memastikan kode berjalan dengan benar
+B. Menghapus file lama
+C. Mengganti server
+D. Meningkatkan ukuran aplikasi
+A
+
+Infrastructure as Code (IaC) digunakan untuk?
+A. Mengatur infrastruktur secara otomatis dengan script
+B. Mengatur hardware manual
+C. Mengganti sistem operasi
+D. Membuat database
+A
+
+Alat untuk menerapkan Infrastructure as Code adalah?
+A. Terraform
+B. Word
+C. Excel
+D. Chrome
+A
+
+Dockerfile digunakan untuk?
+A. Menentukan konfigurasi container
+B. Menyimpan file log
+C. Menulis dokumentasi
+D. Membuat UI
+A
+
+“Pipeline” dalam DevOps berarti?
+A. Rangkaian proses otomatis dari coding hingga deployment
+B. File konfigurasi jaringan
+C. Folder project
+D. Database utama
+A
+
+Manfaat utama DevOps adalah?
+A. Kolaborasi lebih baik antara tim developer dan operations
+B. Pemrograman lebih sulit
+C. Mengurangi komunikasi
+D. Memperlambat rilis
+A
+
+Automation dalam DevOps membantu untuk?
+A. Mempercepat proses build dan deployment
+B. Menghapus log
+C. Menjalankan server manual
+D. Menonaktifkan cloud
+A
+
+“Rollback” berarti?
+A. Mengembalikan sistem ke versi sebelumnya
+B. Menghapus repository
+C. Menambah file
+D. Menyimpan backup
+A
+
+Environment dalam DevOps berarti?
+A. Lingkungan tempat aplikasi dijalankan (dev, test, prod)
+B. Sistem operasi
+C. Bahasa pemrograman
+D. Framework
+A
+
+CI/CD Pipeline membantu tim agar?
+A. Rilis aplikasi cepat dan stabil
+B. Menulis kode lebih sedikit
+C. Menghapus bug otomatis
+D. Membuat desain
+A
+
+DevOps culture menekankan pada?
+A. Kolaborasi, komunikasi, dan otomatisasi
+B. Desain antarmuka
+C. Hardware management
+D. Manual testing
+A
+
+Dalam konteks IoT, data dikirim ke cloud menggunakan?
+A. Internet
+B. Kabel VGA
+C. Flashdisk
+D. Bluetooth tanpa internet
+A
+
+Manfaat DevOps bagi perusahaan adalah?
+A. Pengembangan lebih cepat dan efisien
+B. Kinerja server menurun
+C. Tim bekerja terpisah
+D. Waktu rilis lebih lama
+A
+
+IoT dapat dikatakan pintar karena?
+A. Dapat mengumpulkan, mengirim, dan memproses data otomatis
+B. Hanya menyimpan file
+C. Tidak terhubung internet
+D. Harus dioperasikan manual
+A
