@@ -4,6 +4,34 @@ import random
 from datetime import datetime
 
 DATA_FILE = "data_siswa.csv"
+CSV_FILE = "data_siswa.csv"
+GURU_PASSWORD = "Guru@12345"
+
+# === Fungsi Mode Guru ===
+def mode_guru():
+    print("\n=== MODE GURU ===")
+    password = input("Masukkan Password Guru: ")
+
+    if password != GURU_PASSWORD:
+        print("❌ Password salah! Akses ditolak.")
+        return
+
+    print("\n✔ Login berhasil! Menampilkan nilai siswa :\n")
+    tampilkan_data_guru()
+
+
+# === Tampilkan Data Lengkap ===
+def tampilkan_data_guru():
+    try:
+        with open(CSV_FILE, "r") as file:
+            lines = file.readlines()
+
+        # langsung tampilkan isi file apa adanya (karena sudah ASCII table)
+        for line in lines:
+            print(line.rstrip())
+
+    except FileNotFoundError:
+        print("❌ File CSV tidak ditemukan (belum ada data).")
 
 # === Inisialisasi file utama ===
 def init_file():
@@ -181,7 +209,8 @@ def main():
         print("\n=== SMART ATTENDANCE QUIZ CLI ===")
         print("1. Absen & Mulai Kuis")
         print("2. Lihat Data Semua Siswa")
-        print("3. Keluar")
+        print("3. Lihat Nilai Siswa (Khusus Guru)")
+        print("4. Keluar")
 
         pilihan = input("Pilih menu (1/2/3): ").strip()
 
@@ -201,8 +230,11 @@ def main():
 
         elif pilihan == "2":
             lihat_data()
-
+        
         elif pilihan == "3":
+            mode_guru()
+
+        elif pilihan == "4":
             print("\nTerima kasih! Program selesai.")
             break
 
