@@ -12,8 +12,12 @@ Seluruh proses berjalan di terminal tanpa menggunakan library eksternal.
 ---
 
 ## Fitur Utama
-- ✅ Absensi otomatis dengan pencatatan waktu mulai & selesai  
-- 🧩 Kuis interaktif dengan soal pilihan ganda per mata pelajaran  
+- Absensi otomatis
+- Kuis pilihan ganda
+- Penyimpanan data dalam tabel ASCII
+- Mode siswa (Tanpa Nilai)
+- Mode guru (Berpassword Guru@12345 yang bisa diganti)
+- Multi mapel kuis
 
 ---
 
